@@ -1,4 +1,5 @@
 #import packages
+#Bertopic rom https://maartengr.github.io/BERTopic/index.html 
 
 from asyncio.windows_events import NULL
 import csv
@@ -66,3 +67,5 @@ model = BERTopic(verbose=True)
 #print(docs)
 mylist=list(df)
 topics, probabilities = model.fit_transform(mylist)
+model.save("my_model")
+model.get_topics()
