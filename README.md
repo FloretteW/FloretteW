@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently a penetratiib tester.
+- 🔭 I’m currently a penetration tester.
 - 🌱 I’m currently learning a lot about Active Directory.
 - 💬 Ask me about dogs.
 - 😄 Pronouns: she/her
